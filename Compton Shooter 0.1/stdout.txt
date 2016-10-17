@@ -1,0 +1,13 @@
+compton shooter para windows
+programador: Yeray Romano
+responsable de compilacion: David Ojeda
+se va a intentar abrir la ventana
+x_2=341
+has pulsado el raton
+tocado
+entrada_n=1
+has pulsado el raton
+tocado
+entrada_n=2
+segundos=1
+hasta pronto
